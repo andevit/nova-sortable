@@ -1,5 +1,5 @@
 {
-  "name": "outl1ne/nova-sortable",
+  "name": "andevit/nova-sortable",
   "description": "This Laravel Nova package allows you to reorder models in a Nova resource's index view using drag & drop.",
   "keywords": [
     "laravel",
@@ -12,7 +12,7 @@
   "require": {
     "php": ">=8.0",
     "spatie/eloquent-sortable": "^3.10.0|^4.0",
-    "laravel/nova": "^4.24.0",
+    "andevit/laravel-nova": "^4.24.0",
     "outl1ne/nova-translations-loader": "^5.0"
   },
   "repositories": [
