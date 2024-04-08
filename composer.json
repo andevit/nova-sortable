@@ -13,7 +13,7 @@
     "php": ">=8.0",
     "spatie/eloquent-sortable": "^3.10.0|^4.0",
     "andevit/laravel-nova": "^4.24.0",
-    "andevit/nova-translations-loader": "^5.0"
+    "andevit/nova-translations-loader": "dev-master"
   },
   "repositories": [
     {
